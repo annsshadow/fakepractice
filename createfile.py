@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 
-'create text file'
+'createfile.py : to create text file'
 
 import os
 ls = os.linesep
@@ -28,4 +28,4 @@ while True:
 fileobj = open(fname,'w')
 fileobj.writelines(['%s%s' % (x, ls) for x in all])
 fileobj.close
-print '[FINISHED]'
+print '[FINISHED]file'
