@@ -21,3 +21,12 @@ def odd():
     yield(3)
     print('step 3')
     yield(5)
+
+ g = fib(6)
+while True:
+	try:
+		x = next(g)
+		print('g:', x)
+	except StopIteration as e:
+		print('Generator return value:', e.value)
+		break
