@@ -3,35 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/sig_num.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/usedatetime.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/coroutine.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/fork.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/metaclass.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/d.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/createfile.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/orm.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/tlocal.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/egg.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/mtp.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/dtest.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/subp.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/oop.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/async_wget.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/guitest.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/sort.py" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/readfile.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/queue.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/usecollection.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/poolp.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/async_he.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/slice.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/math.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/t_master.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/t_worker.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/dt.py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/README.md" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/egg.c" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
