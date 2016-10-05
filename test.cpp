@@ -1,5 +1,7 @@
 #include <iostream>
 
+namespace std
+
 int main(){
 	std::cout << "Please enter two number:" << std::endl;
 	int num1 = 0, num2 = 0;
