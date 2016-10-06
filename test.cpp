@@ -1,8 +1,9 @@
 #include <iostream>
 
-namespace std
+using namespace std;
 
 int main(){
+
 	std::cout << "Please enter two number:" << std::endl;
 	int num1 = 0, num2 = 0;
 	std::cin >> num1 >> num2;
