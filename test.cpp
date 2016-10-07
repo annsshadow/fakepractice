@@ -4,20 +4,20 @@ using namespace std;
 
 int main(){
 
-	std::cout << "Please enter two number:" << std::endl;
+	cout << "Please enter two number:" << endl;
 	int num1 = 0, num2 = 0;
-	std::cin >> num1 >> num2;
-	std::cout << "sum of " << num1 << " and " << num2 << " is " << num1 + num2 << std::endl;
+	cin >> num1 >> num2;
+	cout << "sum of " << num1 << " and " << num2 << " is " << num1 + num2 << endl;
 
 	int sum = 0, value = 0,currentValue = 0;
-	if(std::cin >> currentValue){
+	if(cin >> currentValue){
 		int count = 1;
-		while(std::cin >> value){
+		while(cin >> value){
 			if(value == currentValue){
 				count++;
 			}
 			else{
-				std::cout << "currentValue is : " << currentValue << " occurs " << count << " times " << std::endl;
+				cout << "currentValue is : " << currentValue << " occurs " << count << " times " << endl;
 				currentValue = value;
 				count = 1;
 			}
@@ -25,7 +25,7 @@ int main(){
 		}
 	}
 	
-	std::cout << "sum is : " << sum << std::endl;
+	cout << "sum is : " << sum << endl;
 
 	return 0;
 }
