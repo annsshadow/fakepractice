@@ -1,6 +1,31 @@
-# include <stdio.h>
+# include <iostream>
 # include <limits.h>
+
+using namespace std;
+
+template <class T>
+
+int getArrayLen(T& array)
+{
+    return (sizeof(array) / sizeof(array[0]));
+}
+
+ int singleNumber(int* array,int arrLen) {
+     int ones = 0;
+     int twos = 0;
+	 int* current = NULL;
+
+	 for(int i = 0; arrLen > i; i++){
+		 current = array + i;
+		 //cout << *current << endl;
+		 ones = (ones ^ *current) & ~twos;
+		 twos = (twos ^ *current) & ~ones;
+	 }
+	 return ones;
+ }
+
 int max(int a, int b) { return (a > b)? a: b; }
+
 int eggDrop(int n, int k)
 {
     /* eggFloor[i][j] 表示对于 i个鸡蛋 j 层楼，需要的最少测试次数 */
@@ -39,7 +64,11 @@ int eggDrop(int n, int k)
 int main()
 {
     int n = 2, k = 36;
-    printf ("\nMinimum number of trials in worst case with %d eggs and "
-             "%d floors is %d \n", n, k, eggDrop(n, k));
+	int testArr[] = {1,2,3,4,4,4,2,2,1,1};
+    cout << "\nMinimum number of trials in worst case with" << n << "eggs and " << k << " floors is " << eggDrop(n, k) << endl;
+	int arrLen;
+	arrLen = getArrayLen(testArr);
+	cout << "arrLen" << arrLen << endl;
+	cout << "singleNum:" << singleNumber(testArr,arrLen) << endl;
     return 0;
 }
