@@ -1,0 +1,67 @@
+{layout name="layout" /}
+
+    <form>
+      <div class="form-group col-md-6 col-md-offset-3">
+        <label style="visibility:hidden" for="exampleInputName2">username</label>
+        <input style="visibility:hidden" type="text" class="form-control" id="username" placeholder="username" value="{$username}">
+      </div>
+      <div class="form-group col-md-6 col-md-offset-3">
+        <label for="exampleInputName2">操作URL</label>
+        <input type="text" class="form-control" id="url" placeholder="url">
+      </div>
+      <div class="form-group col-md-6 col-md-offset-3">
+        <label for="exampleInputName2">操作原因</label>
+        <input type="text" class="form-control" id="reason" placeholder="reason">
+      </div>
+      <div class="form-group col-md-6 col-md-offset-3">
+        <label>
+          <input type="radio" name="option" id="option1" value="1" checked>
+            COS3.0-禁读
+          </label>
+      </div>
+      <div class="form-group col-md-6 col-md-offset-3">
+          <label>
+            <input type="radio" name="option" id="option2" value="2">
+            COS4.0天津园区-禁读
+          </label>
+      </div>
+      <div class="form-group col-md-6 col-md-offset-3">
+          <label>
+            <input type="radio" name="option" id="option3" value="3">
+            COS4.0天津园区-解除禁读
+          </label>
+      </div>
+      <div class="form-group col-md-6 col-md-offset-3">
+        <button type="button" class="btn btn-default" id="submit">提交</button>
+      </div>
+      <div class="form-group col-md-6 col-md-offset-3">
+        <label for="exampleInputName2">执行结果:</label>
+        <p id="result">...</p>
+      </div>
+    </form>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- my own js code-->
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    usernamev=$("#username").val();
+    urlv=$("#url").val();
+    reasonv=$("#reason").val();
+    optionv = document.querySelector('#formlist input[name="option"]:checked').value;
+    $.post("{:url('admin/ariclecategory/cos_forbidfile')}",
+    {
+      username:usernamev,
+      url:urlv,
+      reason:reasonv,
+      option:optionv
+    },
+    function(data,status){
+      $('#result').html(data);
+    });
+  });
+});
+</script>
