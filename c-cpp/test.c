@@ -50,7 +50,7 @@ int main()
     int file_length = 100;
     int sub = 0;
     int percent = 0.0;
-    for(; transfer_sum < file_length; sub+=2)
+    for(; transfer_sum < file_length; sub += 2)
     {
         percent = (transfer_sum & 0xff00000000000000) ? transfer_sum / (file_length / 100) : transfer_sum * 100 / file_length;
         printf("Download finished--1->%d%%\n", percent);

@@ -10,26 +10,31 @@ int getArrayLen(T& array)
     return (sizeof(array) / sizeof(array[0]));
 }
 
- int singleNumber(int* array,int arrLen) {
-     int ones = 0;
-     int twos = 0;
-	 int* current = NULL;
+int singleNumber(int* array, int arrLen)
+{
+    int ones = 0;
+    int twos = 0;
+    int* current = NULL;
 
-	 for(int i = 0; arrLen > i; i++){
-		 current = array + i;
-		 //cout << *current << endl;
-		 ones = (ones ^ *current) & ~twos;
-		 twos = (twos ^ *current) & ~ones;
-	 }
-	 return ones;
- }
+    for(int i = 0; arrLen > i; i++)
+    {
+        current = array + i;
+        //cout << *current << endl;
+        ones = (ones ^ *current) & ~twos;
+        twos = (twos ^ *current) & ~ones;
+    }
+    return ones;
+}
 
-int max(int a, int b) { return (a > b)? a: b; }
+int max(int a, int b)
+{
+    return (a > b) ? a : b;
+}
 
 int eggDrop(int n, int k)
 {
     /* eggFloor[i][j] 表示对于 i个鸡蛋 j 层楼，需要的最少测试次数 */
-    int eggFloor[n+1][k+1];
+    int eggFloor[n + 1][k + 1];
     int res;
     int i, j, x;
     // 初始化
@@ -51,7 +56,7 @@ int eggDrop(int n, int k)
             eggFloor[i][j] = INT_MAX;
             for (x = 1; x <= j; x++)
             {
-                res = 1 + max(eggFloor[i-1][x-1], eggFloor[i][j-x]);
+                res = 1 + max(eggFloor[i - 1][x - 1], eggFloor[i][j - x]);
                 if (res < eggFloor[i][j])
                     eggFloor[i][j] = res;
             }
@@ -64,11 +69,11 @@ int eggDrop(int n, int k)
 int main()
 {
     int n = 2, k = 36;
-	int testArr[] = {1,2,3,4,4,4,2,2,1,1};
+    int testArr[] = {1, 2, 3, 4, 4, 4, 2, 2, 1, 1};
     cout << "\nMinimum number of trials in worst case with" << n << "eggs and " << k << " floors is " << eggDrop(n, k) << endl;
-	int arrLen;
-	arrLen = getArrayLen(testArr);
-	cout << "arrLen" << arrLen << endl;
-	cout << "singleNum:" << singleNumber(testArr,arrLen) << endl;
+    int arrLen;
+    arrLen = getArrayLen(testArr);
+    cout << "arrLen" << arrLen << endl;
+    cout << "singleNum:" << singleNumber(testArr, arrLen) << endl;
     return 0;
 }
