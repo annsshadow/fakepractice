@@ -15,6 +15,7 @@
 *.so
 *.dylib
 *.dll
+*.so.*
 
 # Fortran module files
 *.mod
@@ -22,44 +23,19 @@
 
 # Compiled Static libraries
 *.lai
-*.la
-*.a
 *.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Prerequisites
-*.d
+*.a
+*.la
+*.lo
 
 # Object files
-*.o
 *.ko
-*.obj
 *.elf
 
 # Linker output
 *.ilk
 *.map
 *.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
 
 # Executables
 *.exe
