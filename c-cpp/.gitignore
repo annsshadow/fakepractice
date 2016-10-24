@@ -26,7 +26,6 @@
 *.lib
 *.a
 *.la
-*.lo
 
 # Object files
 *.ko
@@ -60,4 +59,4 @@ Mkfile.old
 dkms.conf
 
 # extend
-.save
+*.save
