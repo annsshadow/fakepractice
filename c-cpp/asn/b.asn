@@ -1,0 +1,16 @@
+MODULEB   DEFINITIONS ::=
+BEGIN
+
+EXPORTS  
+    MODULEB-TYPEA;
+   
+MODULEB-TYPEA  ::= SEQUENCE
+{
+    a   INTEGER,
+    b   INTEGER
+}
+
+
+END 
+
+

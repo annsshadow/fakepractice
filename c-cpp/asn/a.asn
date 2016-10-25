@@ -1,0 +1,59 @@
+MODULEA  DEFINITIONS ::=
+BEGIN
+
+-- 我是注释
+-- 引入其他模块类型定义
+IMPORTS 
+    MODULEB-TYPEA   FROM    MODULEB;
+
+ 
+-- 自定义类型和自定义常量
+-- 注意，范围或者可选范围必须大写开头，预定义值必须小写开头
+up-bound		INTEGER ::= 100			-- 定义常量值
+lowwer-bound	INTEGER ::= 0
+Arrange			::=INTEGER(1..1000)		-- 定义一个类型，值限定在某个范围[1,1000]
+def-val			Arrange ::= 20
+Arrangeb		::= INTEGER (1|2|3)		-- 定义一个类型，值只能是 1 | 2 | 3
+
+-- 定义类,注意People 必须大写字母开头定义,协议是这样规定
+-- [] 部分属于
+People  ::= SEQUENCE
+{
+    myName		[1]		OCTET STRING,				-- 定义一个属性，myName,注意属性需要小写字母开头，
+    myAge		[2]		INTEGER,					-- [] 部分是tagid 用于编码区分对应属性
+    myMoney1    [3]		INTEGER(1..10000) ,			-- 范围约束，限定范围1~ 10000
+    myMoney2	[4]		INTEGER { commen-xx (2)},   -- 给默认值，方法1：这个限定值为2 "commen-xx" 是参数说明
+    myMoney3	[6]		Arrangeb    (2),            -- 给默认值，方法2：值默认为 2
+    moduleAObj  [7]		MODULEB-TYPEA ,             -- 使用模块A 的类型
+    bitObj      [8]		BIT STRING                  -- 位字符流
+}
+
+-- 定义类
+Company ::= SEQUENCE
+{
+    attr1   INTEGER,
+    attr2   INTEGER 
+}
+
+-- 定义一个列表,就是数组
+Companys    ::=		SEQUENCE OF Company
+
+-- 定义一个联合体 
+MyChoice    ::= CHOICE
+{
+    [1] INTEGER,
+    [2] OCTET   STRING,
+    [3] Company
+}
+
+
+-- 定义枚举
+MyEnum  ::= ENUMERATED
+{
+    enum1(1),
+    enum2(2),
+    enum3(3)
+}
+
+END
+
