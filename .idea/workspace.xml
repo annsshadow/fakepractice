@@ -12,38 +12,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47d55911-ab52-4096-8bbc-7fa85e394192" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/async_he.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/async_wget.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coroutine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/createfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/d.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dtest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/forbidfile_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/forbidfile_function_5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fork.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/guitest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/math.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/metaclass.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mtp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oop.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/orm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/poolp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queue.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/slice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sort.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/t_master.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/t_worker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tlocal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ugc2nugc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ugc2nugc_2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usecollection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/usedatetime.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/Untitled1.save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/alabo2roma.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/base convert.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/egg.cpp.save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/egg.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/sysctl.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/test.c.save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/vertor.cpp.save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c-cpp/vertor.o" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c-cpp/test.cpp.save" afterPath="$PROJECT_DIR$/c-cpp/test.cpp.save" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c-cpp/test.o" afterPath="$PROJECT_DIR$/c-cpp/test.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c-cpp/test.cpp" afterPath="$PROJECT_DIR$/c-cpp/test.cpp" />
     </list>
     <ignored path="fakepractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,34 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="egg.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egg.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="819">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-                <element signature="e#74#83#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.cpp">
+        <entry file="file://$PROJECT_DIR$/c-cpp/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,10 +77,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="886" />
+    <option name="x" value="712" />
+    <option name="width" value="721" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -352,12 +309,12 @@
     <option name="totallyTimeSpent" value="2028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="7" />
-    <editor active="true" />
+    <frame x="712" y="0" width="721" height="870" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34407216" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34407216" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15592784" sideWeight="0.5222222" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -412,117 +369,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egg.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <element signature="e#74#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egg.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <element signature="e#74#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egg.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <element signature="e#74#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sig_num.c" />
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egg.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <element signature="e#74#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/egg.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/egg.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/egg.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/egg.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/sig_num.c" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/egg.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/c-cpp/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
