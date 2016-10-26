@@ -1,0 +1,40 @@
+//SEQUENCE 编码解码
+
+People p;
+
+//定义存储空间，设置写模式，初始化，编码
+char temp[4096];
+AsnBuf buff;
+AsnLen len;
+buff.Init(temp,sizeof(temp));
+buff.ResetInWriteRvsMode();
+ret = p.BEncPdu(buff,len);
+
+//解码
+AsnBuf decodeBuf;
+AsnBuf decodeLen;
+decodeBuf.InstallData(buff.DataPtr(), buff.DataLen());
+ret = p.BDecPdu(decodeBuf,decodeLen);
+
+//CHOICE 编码
+MyChoice mychoice;
+//声明数据类型
+mychoice.choiceId = mychoice.companyCid;
+Company * pTemp = new Company;
+//赋值，MyChoice的析构函数会自动析构pTemp
+mychoice.company = pTemp;
+
+//解码
+switch (mychoice.choiceId)
+{
+	case mychoice.integerCid:
+		//do sth
+		break;
+	case mychoice.companyCid:
+	{
+		pTemp = mychoice.company;
+	}
+		break;
+	default:
+		break;
+}
