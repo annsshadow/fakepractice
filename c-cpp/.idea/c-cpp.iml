@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hanoi.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/phonebook.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ring.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
