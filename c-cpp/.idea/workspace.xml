@@ -12,7 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/josephson-chain.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastNumberOfExp.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="c-cpp.iws" />
@@ -54,6 +54,7 @@
         <option value="$PROJECT_DIR$/nicochase.cpp" />
         <option value="$PROJECT_DIR$/josephson.cpp" />
         <option value="$PROJECT_DIR$/josephson-chain.cpp" />
+        <option value="$PROJECT_DIR$/lastNumberOfExp.cpp" />
       </list>
     </option>
   </component>
@@ -304,7 +305,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="692" height="869" extended-state="1" />
+    <frame x="-1" y="0" width="692" height="869" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18934911" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -481,6 +482,14 @@
           <folding>
             <element signature="e#49#68#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lastNumberOfExp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
