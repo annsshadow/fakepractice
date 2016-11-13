@@ -12,7 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cos-math.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cos-line.cpp" />
     </list>
     <ignored path="c-cpp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,6 +56,7 @@
         <option value="$PROJECT_DIR$/lastNumberOfExp.cpp" />
         <option value="$PROJECT_DIR$/division.cpp" />
         <option value="$PROJECT_DIR$/cos-math.cpp" />
+        <option value="$PROJECT_DIR$/cos-line.cpp" />
       </list>
     </option>
   </component>
@@ -509,6 +510,16 @@
         <state relative-caret-position="588">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cos-line.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
