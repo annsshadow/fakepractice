@@ -12,7 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/make-palindrome.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/precies-mark.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="c-cpp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,6 +60,7 @@
         <option value="$PROJECT_DIR$/cos-line.cpp" />
         <option value="$PROJECT_DIR$/palindrome-prime.c" />
         <option value="$PROJECT_DIR$/make-palindrome.c" />
+        <option value="$PROJECT_DIR$/precies-mark.cpp" />
       </list>
     </option>
   </component>
@@ -539,6 +541,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precies-mark.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="e#50#68#0" expanded="true" />
           </folding>
