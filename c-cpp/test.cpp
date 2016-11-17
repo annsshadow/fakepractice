@@ -1,4 +1,4 @@
-#include <boost/regex.hpp>
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -41,8 +41,16 @@ int main()
     *string& replace (size_t pos, size_t len, const string& str);
     */
 
-    string line = "test;testtt;jjjjj;";
+    /*string line = "test;testtt;jjjjj;";
     line = line.replace(line.find(";"), line.length(), "\n"); //从第一个@位置替换第一个@为空
     cout << line << endl;
+    */
+    string s1, s2, s3;
+    s1 = s2 = "1\n34\n678\n0";
+    s3 = "\t10.10.10.10";
+    s1.insert(2, s3);
+    cout << s1 << endl;
+    //s2.insert(5, "bbb");
+    //cout << s2 << endl;
     return 0;
 }
