@@ -1,0 +1,1 @@
+print(*(i for i in range(2, 1000) if all(tuple(i%j for j in range(2, int(i**.5))))))
