@@ -15,6 +15,15 @@ int main(int argc, char* argv[])
     cout << "s2 size: " << s2.size() << endl;
     cout << "s3 length: " << s3.length() << endl;
     cout << "s3 size: " << s3.size() << endl;
+    cout << "'a' size: " << sizeof('a') << endl;
+    cout << "\"a\" size: " << sizeof("a") << endl;
+
+
+    string line;
+    //while(cin >> word)
+    while(getline(cin, line))
+        if(!line.empty())
+            cout << line << endl;
 
     return 0;
 }
