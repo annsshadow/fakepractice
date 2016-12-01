@@ -1,7 +1,9 @@
 #include <string>
+#include <vector>
 #include <iostream>
 
 using namespace std;
+using std::vector;
 
 int main(int argc, char* argv[])
 {
@@ -21,9 +23,36 @@ int main(int argc, char* argv[])
 
     string line;
     //while(cin >> word)
-    while(getline(cin, line))
-        if(!line.empty())
-            cout << line << endl;
+    //while(getline(cin, line))
+    //    if(!line.empty())
+    //        cout << line << endl;
+
+    string s4("");
+    char c1[3] = {0};
+
+    c1[0] = 'a';
+    c1[1] = 'A';
+    c1[2] = 'b';
+    vector<char> vc1(begin(c1), end(c1));
+
+    for(auto v : c1)
+    {
+        cout << "c1-v: " << v << endl;
+    }
+
+    for(auto v : vc1)
+    {
+        cout << "c1-v-v: " << v << endl;
+    }
+
+    string s5('a','b');
+    char c2 = 'a';
+    cout << "a-ascii: " << static_cast<int>(c2) << endl;
+    //cout << "s5: " << s5 << endl;
+
+    //overflow
+    //s4 += c1;
+    //cout << "s4 + c1: " << s4 << endl;
 
     return 0;
 }
