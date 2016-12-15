@@ -12,12 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p8-10.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p8-11.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/c-cpp.iml" afterPath="$PROJECT_DIR$/.idea/c-cpp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/annsshadow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-5.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/primer/p8-4.cpp" afterPath="$PROJECT_DIR$/primer/p8-4.cpp" />
     </list>
     <ignored path="c-cpp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,14 +56,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p8-11.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="p8-11.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/primer/p8-11.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="630">
               <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding>
                 <element signature="e#47#66#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p9-5.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/primer/p9-5.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,6 +113,7 @@
         <option value="$PROJECT_DIR$/primer/p8-4.cpp" />
         <option value="$PROJECT_DIR$/primer/p8-10.cpp" />
         <option value="$PROJECT_DIR$/primer/p8-11.cpp" />
+        <option value="$PROJECT_DIR$/primer/p9-5.cpp" />
       </list>
     </option>
   </component>
@@ -120,6 +128,22 @@
     <option name="y" value="55" />
     <option name="width" value="734" />
     <option name="height" value="886" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -173,6 +197,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/all_document/cosv4" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RunManager" selected="Application.Build All">
     <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_cpp" TARGET_NAME="c_cpp" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
@@ -368,12 +393,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477745028392</updated>
-      <workItem from="1481699699490" duration="1451000" />
+      <workItem from="1481699699490" duration="3127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1451000" />
+    <option name="totallyTimeSpent" value="3127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="641" y="55" width="734" height="886" extended-state="0" />
@@ -624,7 +649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/primer/p8-11.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
+        <state relative-caret-position="630">
           <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding>
             <element signature="e#47#66#0" expanded="true" />
@@ -632,5 +657,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p9-5.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
