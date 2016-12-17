@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/annsshadow/Documents/fakepractice/c-cpp/main.cpp">
-			<Option target="c_cpp"/>
-		</Unit>
 		<Unit filename="/Users/annsshadow/Documents/fakepractice/c-cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
