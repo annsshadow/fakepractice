@@ -12,36 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/func-ptr-test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/function-test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-11.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-11.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-21.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-22.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-32.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-5.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-6.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-7.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p8-1.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p8-10.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p8-11.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p8-4.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-13.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-15.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-18.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-22.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-24.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-26.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-31-1.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-31-2.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-5.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/string-test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/stuinfo.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/test-right.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/test_data_type.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/vertor-test.cpp" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9/p9-47.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="c-cpp.iws" />
@@ -61,7 +32,18 @@
     <favorites_list name="c-cpp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="p9-47.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/primer/p9/p9-47.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -107,6 +89,7 @@
         <option value="$PROJECT_DIR$/primer/p9-31-2.cpp" />
         <option value="$PROJECT_DIR$/primer/p9-43.cpp" />
         <option value="$PROJECT_DIR$/primer/p9-45-46.cpp" />
+        <option value="$PROJECT_DIR$/primer/p9/p9-47.cpp" />
       </list>
     </option>
   </component>
@@ -406,15 +389,15 @@
       <updated>1477745028392</updated>
       <workItem from="1481699699490" duration="3127000" />
       <workItem from="1481954138744" duration="1201000" />
-      <workItem from="1481963228506" duration="4020000" />
+      <workItem from="1481963228506" duration="4338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8348000" />
+    <option name="totallyTimeSpent" value="8666000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="890" y="59" width="734" height="886" extended-state="0" />
+    <frame x="890" y="59" width="734" height="886" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17574932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -678,6 +661,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p9/p9-47.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
           <folding />
         </state>
       </provider>
