@@ -12,26 +12,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-13.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-15.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-18.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-22.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-24.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-26.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-31-1.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p9-31-2.cpp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/func-ptr-test.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/function-test.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-11.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-11.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-21.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-22.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-32.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-5.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-6.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p7-7.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p8-1.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p8-10.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p8-11.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p8-4.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-13.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-15.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-18.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-22.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-24.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-26.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-31-1.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-31-2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/p9-5.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/string-test.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/stuinfo.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/test-right.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/test.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/test.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/test_data_type.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/primer/vertor-test.cpp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/c_cpp.dir/progress.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/c_cpp.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/c_cpp.cbp" />
     </list>
     <ignored path="c-cpp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,98 +61,7 @@
     <favorites_list name="c-cpp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p9-5.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p9-5.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p9-13.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p9-13.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p9-15.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p9-15.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p9-18.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p9-18.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p9-22.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p9-22.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p9-24.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p9-24.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p9-26.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p9-26.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p9-31-1.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p9-31-1.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p9-31-2.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/primer/p9-31-2.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -185,6 +105,8 @@
         <option value="$PROJECT_DIR$/primer/p9-26.cpp" />
         <option value="$PROJECT_DIR$/primer/p9-31-1.cpp" />
         <option value="$PROJECT_DIR$/primer/p9-31-2.cpp" />
+        <option value="$PROJECT_DIR$/primer/p9-43.cpp" />
+        <option value="$PROJECT_DIR$/primer/p9-45-46.cpp" />
       </list>
     </option>
   </component>
@@ -195,8 +117,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="48" />
+    <option name="x" value="890" />
+    <option name="y" value="59" />
     <option name="width" value="734" />
     <option name="height" value="886" />
   </component>
@@ -243,6 +165,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="c-cpp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c-cpp" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c-cpp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="primer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -466,18 +406,18 @@
       <updated>1477745028392</updated>
       <workItem from="1481699699490" duration="3127000" />
       <workItem from="1481954138744" duration="1201000" />
-      <workItem from="1481963228506" duration="3139000" />
+      <workItem from="1481963228506" duration="4020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7467000" />
+    <option name="totallyTimeSpent" value="8348000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="48" width="734" height="886" extended-state="0" />
-    <editor active="true" />
+    <frame x="890" y="59" width="734" height="886" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17574932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17574932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -714,6 +654,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p9-43-44.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="36" lean-forward="false" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p9-45-46.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
