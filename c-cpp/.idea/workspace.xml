@@ -12,12 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p12/p12-23.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p12/p12-24.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p12/p12-26.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p12/p12-30-test.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p12/p12-30.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p12/p12-30.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p12/p13-11.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p12/p13-8.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="c-cpp.iws" />
@@ -38,8 +34,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p12-23.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p12/p12-23.cpp">
+      <file leaf-file-name="p13-8.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primer/p12/p13-8.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
@@ -48,48 +44,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p12-24.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p12/p12-24.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p12-26.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p12/p12-26.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p12-30.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p12/p12-30.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="56" lean-forward="false" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p12-30.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p12/p12-30.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p12-30-test.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/primer/p12/p12-30-test.cpp">
+      <file leaf-file-name="p13-11.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/primer/p12/p13-11.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
@@ -106,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/phonebook.cpp" />
-        <option value="$PROJECT_DIR$/ring.cpp" />
         <option value="$PROJECT_DIR$/sneak.cpp" />
         <option value="$PROJECT_DIR$/huffmantree.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
@@ -157,6 +111,8 @@
         <option value="$PROJECT_DIR$/primer/p12/p12-30.h" />
         <option value="$PROJECT_DIR$/primer/p12/p12-30.cpp" />
         <option value="$PROJECT_DIR$/primer/p12/p12-30-test.cpp" />
+        <option value="$PROJECT_DIR$/primer/p12/p13-11.h" />
+        <option value="$PROJECT_DIR$/primer/p12/p13-8.h" />
       </list>
     </option>
   </component>
@@ -456,12 +412,12 @@
       <updated>1477745028392</updated>
       <workItem from="1481699699490" duration="3127000" />
       <workItem from="1481954138744" duration="1201000" />
-      <workItem from="1481963228506" duration="8156000" />
+      <workItem from="1481963228506" duration="8518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12484000" />
+    <option name="totallyTimeSpent" value="12846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="308" y="46" width="827" height="886" extended-state="1" />
@@ -505,9 +461,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hanoi.cpp" />
-    <entry file="file://$PROJECT_DIR$/phonebook.cpp" />
-    <entry file="file://$PROJECT_DIR$/ring.cpp" />
     <entry file="file://$PROJECT_DIR$/sneak.cpp" />
     <entry file="file://$PROJECT_DIR$/huffmantree.cpp" />
     <entry file="file://$PROJECT_DIR$/numberOfTailZeroForFactorial.c" />
@@ -766,6 +719,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/primer/p12/p12-30-test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p13/怕3-8.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p12/p13-8.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p12/p13-11.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
