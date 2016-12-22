@@ -12,12 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p13/p13-37.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p13/p13-37.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p13/p13-40.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p13/p13-40.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/primer/p12/p13-11.h" afterPath="$PROJECT_DIR$/primer/p13/p13-11.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/primer/p12/p13-8.h" afterPath="$PROJECT_DIR$/primer/p13/p13-8.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p14/p14-39.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p14/p14-44.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="c-cpp.iws" />
@@ -38,61 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p13-8.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p13/p13-8.h">
+      <file leaf-file-name="p14-44.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/primer/p14/p14-44.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p13-11.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p13/p13-11.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p13-37.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p13/p13-37.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p13-37.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p13/p13-37.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p13-40.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primer/p13/p13-40.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p13-40.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/primer/p13/p13-40.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1100">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="390">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -106,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/goldbach.cpp" />
-        <option value="$PROJECT_DIR$/stuinfo.cpp" />
         <option value="$PROJECT_DIR$/nicochase.cpp" />
         <option value="$PROJECT_DIR$/josephson.cpp" />
         <option value="$PROJECT_DIR$/josephson-chain.cpp" />
@@ -157,6 +101,8 @@
         <option value="$PROJECT_DIR$/primer/p13/p13-37.cpp" />
         <option value="$PROJECT_DIR$/primer/p13/p13-40.h" />
         <option value="$PROJECT_DIR$/primer/p13/p13-40.cpp" />
+        <option value="$PROJECT_DIR$/primer/p14/p14-39.cpp" />
+        <option value="$PROJECT_DIR$/primer/p14/p14-44.cpp" />
       </list>
     </option>
   </component>
@@ -167,10 +113,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="34" />
-    <option name="width" value="807" />
-    <option name="height" value="886" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
+    <option name="height" value="976" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -232,7 +177,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="p13" />
+              <option name="myItemId" value="p14" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -461,20 +406,20 @@
       <updated>1477745028392</updated>
       <workItem from="1481699699490" duration="3127000" />
       <workItem from="1481954138744" duration="1201000" />
-      <workItem from="1481963228506" duration="9510000" />
+      <workItem from="1481963228506" duration="11365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13838000" />
+    <option name="totallyTimeSpent" value="15693000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="34" width="807" height="886" extended-state="1" />
+    <frame x="0" y="23" width="960" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1598513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29658213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -510,8 +455,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stuinfo.cpp" />
-    <entry file="file://$PROJECT_DIR$/nicochase.cpp" />
     <entry file="file://$PROJECT_DIR$/josephson.cpp" />
     <entry file="file://$PROJECT_DIR$/josephson-chain.cpp" />
     <entry file="file://$PROJECT_DIR$/lastNumberOfExp.cpp" />
@@ -823,6 +766,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1100">
           <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p14/p14-39.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p14/p14-44.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding />
         </state>
       </provider>
