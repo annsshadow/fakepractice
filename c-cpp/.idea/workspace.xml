@@ -12,10 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8481f1e8-ae31-49d2-b778-a27e6033fb38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p16/p16-4.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p16/p16-5.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p16/p16-6.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p16/p6-19-20.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p17/p17-17-18.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p17/p17-24.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p17/p17-25.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p17/p17-27.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer/p17/p17-30.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="c-cpp.iws" />
@@ -73,15 +74,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p6-19-20.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="p6-19-20.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/primer/p16/p6-19-20.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="66" lean-forward="false" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+            <state relative-caret-position="330">
+              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
               <folding>
                 <element signature="e#120#140#0" expanded="true" />
                 <element signature="e#354#374#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p17-17-18.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primer/p17/p17-17-18.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p17-24.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primer/p17/p17-24.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p17-25.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primer/p17/p17-25.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p17-27.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primer/p17/p17-27.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p17-30.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/primer/p17/p17-30.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,11 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/division.cpp" />
-        <option value="$PROJECT_DIR$/cos-math.cpp" />
-        <option value="$PROJECT_DIR$/cos-line.cpp" />
-        <option value="$PROJECT_DIR$/palindrome-prime.c" />
-        <option value="$PROJECT_DIR$/make-palindrome.c" />
         <option value="$PROJECT_DIR$/precies-mark.cpp" />
         <option value="$PROJECT_DIR$/chain.cpp" />
         <option value="$PROJECT_DIR$/chain-2.cpp" />
@@ -145,6 +191,11 @@
         <option value="$PROJECT_DIR$/primer/p16/p16-5.cpp" />
         <option value="$PROJECT_DIR$/primer/p16/p16-6.cpp" />
         <option value="$PROJECT_DIR$/primer/p16/p6-19-20.cpp" />
+        <option value="$PROJECT_DIR$/primer/p17/p17-17-18.cpp" />
+        <option value="$PROJECT_DIR$/primer/p17/p17-24.cpp" />
+        <option value="$PROJECT_DIR$/primer/p17/p17-25.cpp" />
+        <option value="$PROJECT_DIR$/primer/p17/p17-27.cpp" />
+        <option value="$PROJECT_DIR$/primer/p17/p17-30.cpp" />
       </list>
     </option>
   </component>
@@ -219,7 +270,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="p16" />
+              <option name="myItemId" value="p17" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -448,18 +499,18 @@
       <updated>1477745028392</updated>
       <workItem from="1481699699490" duration="3127000" />
       <workItem from="1481954138744" duration="1201000" />
-      <workItem from="1481963228506" duration="12938000" />
+      <workItem from="1481963228506" duration="14830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17266000" />
+    <option name="totallyTimeSpent" value="19158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="960" height="976" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29658213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -497,11 +548,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cos-math.cpp" />
-    <entry file="file://$PROJECT_DIR$/cos-line.cpp" />
-    <entry file="file://$PROJECT_DIR$/palindrome-prime.c" />
-    <entry file="file://$PROJECT_DIR$/make-palindrome.c" />
-    <entry file="file://$PROJECT_DIR$/precies-mark.cpp" />
     <entry file="file://$PROJECT_DIR$/chain.cpp" />
     <entry file="file://$PROJECT_DIR$/chain-2.cpp" />
     <entry file="file://$PROJECT_DIR$/prime-magic-squre.cpp" />
@@ -857,12 +903,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/primer/p16/p6-19-20.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="66" lean-forward="false" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+        <state relative-caret-position="330">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding>
             <element signature="e#120#140#0" expanded="true" />
             <element signature="e#354#374#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p17/p17-17-18.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p17/p17-24.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p17/p17-25.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p17/p17-27.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primer/p17/p17-30.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
